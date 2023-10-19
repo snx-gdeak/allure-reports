@@ -1,0 +1,1 @@
+[{"name":"TeamCity","type":"teamcity","url":"http://teamcity:8111/","buildOrder":213,"buildName":"Snap/e2e / Testing # 213","buildUrl":"http://teamcity:8111/viewLog.html?tab=buildResultsDiv&buildId=17822&buildTypeId=SnapE2e_Testing","reportUrl":"http://teamcity:8111/repository/download/SnapE2e_Testing/17822:id/allure-report.zip!/allure-report/index.html"}]
